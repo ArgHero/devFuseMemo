@@ -1,0 +1,19 @@
+form {
+    display: flex;
+    flex-flow: column;
+    gap: 1rem;
+    width: 100%;
+}
+
+div.entrada{
+    display: flex;
+    flex-flow: column;
+    gap: 1rem;
+}
+
+div.divisor{
+    display: flex;
+    flex-flow: row;
+    gap: 1rem;
+
+}
